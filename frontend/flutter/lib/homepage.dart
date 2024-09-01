@@ -14,7 +14,7 @@ class _POSTState extends State<Homepage> {
   TextEditingController descController = TextEditingController();
 
   // Create an instance of DataSource with the required baseUrl
-  final DataSource dataSource = DataSource(baseUrl: 'http://192.168.0.10:2000');
+  final DataSource dataSource = DataSource(baseUrl: 'http://192.160.0.13:3000'); // This is a fake address please replace with your address
 
   // Initialize productsList as an empty list
   List<Product> productsList = [];
