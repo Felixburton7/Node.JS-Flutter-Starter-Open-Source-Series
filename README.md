@@ -81,7 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or need further assistance:
 - **Email**: your.email@example.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-
-Happy coding!
-
-
