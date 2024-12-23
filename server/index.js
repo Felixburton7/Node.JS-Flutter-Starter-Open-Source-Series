@@ -117,3 +117,4 @@ app.delete('/api/delete_product/:id', (req, res) => {
         "Product": deletedProduct
     });
 });
+
